@@ -4,11 +4,13 @@
       "000goster": "true",
       "001tv": "",
       "002goster": "true"
-    }
-      {
-      "client_info": 
+  },
+  "client": [
+    {
+   "client_info": 
     {
         "mobilesdk_app_id": "1:350888607953:android:db0326f5b7e220e07b85f0",
           "package_name": "istanbul.kameralar.tv"
         }
+      ]
 }
