@@ -6,9 +6,9 @@
   },
 
     {
-   "configmodel": 
+   "002": 
     {
-        "002butongoster": "true",
+        "butongoster": "true",
           "package_name": "istanbul.kameralar.tv"
         }
       }
