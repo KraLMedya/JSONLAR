@@ -1,11 +1,10 @@
 {
-  "ConfigModel": 
+  "gizlibuton": 
     {
       "000goster": "true",
-      "001tv": "",
-      "visible": "true"
+      "001tv": ""
   },
-  "client": [
+
     {
    "client_info": 
     {
