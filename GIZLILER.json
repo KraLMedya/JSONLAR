@@ -5,15 +5,8 @@
       "001tv": "",
       "002goster": "true"
 },  
-    
-
-  "gizli": [
+  "gizli": 
     {
-        "butongoster": "true",
-          "package_name": "istanbul.kameralar.tv"
+        "butongoster": "true"
         }
-
-
-
-  ],
 }
