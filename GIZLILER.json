@@ -6,9 +6,9 @@
   },
 
     {
-   "client_info": 
+   "button": 
     {
-        "mobilesdk_app_id": "1:350888607953:android:db0326f5b7e220e07b85f0",
+        "visible": "true",
           "package_name": "istanbul.kameralar.tv"
         }
       }
