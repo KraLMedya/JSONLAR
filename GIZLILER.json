@@ -3,10 +3,14 @@
     {
       "000goster": "true",
       "001tv": "true"
-},  
+    },  
   "002": 
     {
         "002goster": "true",
         "BIRAZOYUN": "https://ferdimedya.com"
-        }
+    },
+  "002link":
+      {
+        "BIRAZOYUN": "https://ferdimedya.com"
+}
 }
