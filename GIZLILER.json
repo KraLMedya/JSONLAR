@@ -3,14 +3,36 @@
     {
       "kral022": "",
       "001tv": "true"
-    },  
-
+},  
+    "001goster": 
+    {
+        "KAYANDUYURUgoster": "true",
+        "xxx2": "true",      
+        "xxx3": "https://ferdimedya.com"
+},
+    "001linkler":
+      {
+        "TVLER": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
+        "KRALTVTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",        
+        "KRALTVSOHBET": "https://www5.cbox.ws/box/?boxid=913679&boxtag=KFMSHB",        
+        "BIRAZOYUN": "https://kralmedya.github.io/TVLER/BIRAZOYUN.html",
+        "EFKARLOBI": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
+        "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",
+        "SAYAC": "https://kralmedya.github.io/SAYACLAR/002sayac.html"
+},
     "001metinler": 
     {
         "KAYANDUYURU": "BU BİR DENEME kayan yazısıdır. İlk test ettiğimiz bu yazıdan sonra kısmetse her şey çok güzel olacaktır. LOOOWWW",
         "xxx2": "true",      
         "xxx3": "https://ferdimedya.com"
-    },
+},
+
+
+
+
+
+
+  
 
 
 
@@ -20,7 +42,7 @@
         "002goster": "true",
         "002gosterTEST": "true",      
         "BIRAZOYUN": "https://ferdimedya.com"
-    },
+},
   "002link":
       {
         "TVLER": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
