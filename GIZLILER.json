@@ -14,11 +14,6 @@
     "001linkler":
       {
         "TVLER": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
-        "KRALTVTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",        
-        "KRALTVSOHBET": "https://www5.cbox.ws/box/?boxid=913679&boxtag=KFMSHB",        
-        "BIRAZOYUN": "https://kralmedya.github.io/TVLER/BIRAZOYUN.html",
-        "EFKARLOBI": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
-        "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",
         "SAYAC": "https://kralmedya.github.io/SAYACLAR/002sayac.html"
 },
     "001metinler": 
@@ -31,10 +26,6 @@
       {
         "TVLER": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
         "KRALTVTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",        
-        "KRALTVSOHBET": "https://www5.cbox.ws/box/?boxid=913679&boxtag=KFMSHB",        
-        "BIRAZOYUN": "https://kralmedya.github.io/TVLER/BIRAZOYUN.html",
-        "EFKARLOBI": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
-        "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",
         "ANASAYAC": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"
 },
 
