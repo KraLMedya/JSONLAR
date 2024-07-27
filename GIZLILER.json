@@ -24,9 +24,9 @@
 },
     "001sayaclar":
       {
+        "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/001sayac.html",
         "TVLER": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
-        "KRALTVTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",        
-        "ANASAYAC": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"
+        "KRALTVTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"
 },
 
 
