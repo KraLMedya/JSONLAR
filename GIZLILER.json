@@ -9,7 +9,8 @@
         "KAYANDUYURUgoster": "true",
         "ANASAYACgoster": "",            
         "EXTRALAR": "TRUE",      
-        "xxx3": "https://ferdimedya.com"
+      
+        "XXX": "https://ferdimedya.com"
 },
     "001linkler":
       {
@@ -20,15 +21,16 @@
         "KRALTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
         "ANASOHBET": "https://www5.cbox.ws/box/?boxid=952177&boxtag=001SHB",        
         "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html",
-        "SAYAC": "https://kralmedya.github.io/SAYACLAR/002sayac.html"
+        
+        "XXX": "https://kralmedya.github.io/SAYACLAR/002sayac.html"
 
         
 },
     "001metinler": 
     {
         "KAYANDUYURU": "KANAL DETAYLARI / EXTRALAR ALANINDA TV KANALLARI, OYUNLAR VE DAHA FAZLASINA ERİŞEBİLİRSİNİZ.",
-        "xxx2": "true",      
-        "xxx3": "https://ferdimedya.com"
+      
+        "XXX": "https://ferdimedya.com"
 },
     "001sayaclar":
       {
