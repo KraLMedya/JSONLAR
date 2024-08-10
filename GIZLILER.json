@@ -55,9 +55,63 @@
         "XXX": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"
 },
 
-
   
+    "ARABOSLUK": 
+    {
+        "XXX": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+},
 
+    "002goster": 
+    {
+        "KAYANDUYURUgoster": "TRUE",
+        "ANASAYACgoster": "TRU",            
+        "EXTRALAR": "TRU",      
+      
+        "XXX": "https://ferdimedya.com"
+},  
+
+
+    "002linkler":
+      {
+        "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
+        "LOBITV": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",        
+        "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",        
+        "KRALTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "ANASOHBET": "https://www5.cbox.ws/box/?boxid=952177&boxtag=001SHB",        
+        "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html",
+        
+        "XXX": "https://kralmedya.github.io/SAYACLAR/002sayac.html"
+
+        
+},
+    "002metinler": 
+    {
+        "KAYANDUYURU": "Uygulamanızın 2. versiyonuna Hoş Geldiniz! Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz.",
+      
+        "XXX": "https://ferdimedya.com"
+},
+    "002sayaclar":
+      {
+        "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/001sayac.html",
+        "STREAMSAYAC": "https://kralmedya.github.io/SAYACLAR/001STREAMSAYAC.html",
+        
+        "SADECEoyunSAYAC": "https://kralmedya.github.io/SAYACLAR/001sadeceoyunsayac.html",
+        
+        "TVOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001TVOYUNsayac.html",
+        "TVSOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001TVSOHBETsayac.html",
+        "TVLERsayac": "https://kralmedya.github.io/SAYACLAR/001TVLERsayac.html",
+        
+        "RADYOOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001RADYOOYUNsayac.html",
+        "RADYOSOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001RADYOSOHBETsayac.html",
+        "RADYOLARsayac": "https://kralmedya.github.io/SAYACLAR/001RADYOLARsayac.html",
+        
+        "LOBIOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001LOBIOYUNsayac.html",
+        "LOBISOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001LOBISOHBETsayac.html",
+        "LOBILERsayac": "https://kralmedya.github.io/SAYACLAR/001LOBILERsayac.html",        
+        
+        "XXX": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"
+},  
 
 
   
