@@ -58,8 +58,8 @@
 
     "002gizli": 
     {
-        "KAYANDUYURUgoster": "",
-        "ANASAYACgoster": "",                
+        "KAYANDUYURUgoster": "true",
+        "ANASAYACgoster": "false",                
     
         "XXX": "https://ferdimedya.com"
 },  
