@@ -54,8 +54,6 @@
         
         "XXX": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"
 },
-
-
     "002gizli": 
     {
         "KAYANDUYURUgoster": "TRUE",
@@ -63,10 +61,9 @@
     
         "XXX": "https://ferdimedya.com"
 },  
-
-
     "002linkler":
       {
+        "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/002sayac.html",        
         "GIRISWEB": "https://kralmedya.github.io/HTML/002sohbetkural.html",        
         "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
         "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
@@ -76,13 +73,11 @@
         "ANASOHBET": "https://www5.cbox.ws/box/?boxid=952177&boxtag=001SHB",        
         "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html",
         
-        "XXX": "https://kralmedya.github.io/SAYACLAR/002sayac.html"
-
-        
+        "XXX": "https://kralmedya.github.io/SAYACLAR/002sayac.html"    
 },
     "002metinler": 
     {
-        "KAYANDUYURU": "Msg: Uygulamanızın 2. versiyonuna Hoş Geldiniz! Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz.",
+        "KAYANDUYURU": "         Uygulamanızın 2. versiyonuna Hoş Geldiniz! Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz.",
       
         "XXX": "https://ferdimedya.com"
 },
