@@ -99,8 +99,15 @@
         
         "XXX": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"
 },  
-
-
+    "002resimler":
+      {
+        "KRALTVLOGO": "https://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "TVLERLOGO": "https://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "X1": "https://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "X2": "https://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "X3": "https://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "X4": "https://kralmedya.github.io/SAYACLAR/002sayac.html"
+},
   
 
 
