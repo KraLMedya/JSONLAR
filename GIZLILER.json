@@ -9,9 +9,7 @@
     {
         "KAYANDUYURUgoster": "TRUE",
         "ANASAYACgoster": "TRUE",            
-        "EXTRALAR": "TRUE",      
-      
-        "XXX": "https://ferdimedya.com"
+        "EXTRALAR": "TRUE"
 },
     "001linkler":
       {
@@ -21,17 +19,11 @@
         "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",        
         "KRALTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
         "ANASOHBET": "https://www5.cbox.ws/box/?boxid=952177&boxtag=001SHB",        
-        "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html",
-        
-        "XXX": "https://kralmedya.github.io/SAYACLAR/002sayac.html"
-
-        
+        "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html"
 },
     "001metinler": 
     {
-        "KAYANDUYURU": "Uygulamanızın 2. versiyonuna Hoş Geldiniz! Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz.",
-      
-        "XXX": "https://ferdimedya.com"
+        "KAYANDUYURU": "         Uygulamanızın 2. versiyonuna Hoş Geldiniz! Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz."
 },
     "001sayaclar":
       {
@@ -50,16 +42,24 @@
         
         "LOBIOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001LOBIOYUNsayac.html",
         "LOBISOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001LOBISOHBETsayac.html",
-        "LOBILERsayac": "https://kralmedya.github.io/SAYACLAR/001LOBILERsayac.html",        
-        
-        "XXX": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"
+        "LOBILERsayac": "https://kralmedya.github.io/SAYACLAR/001LOBILERsayac.html"        
 },
+
+
+
+
+
+
+
+
+
+  
+
+  
     "002gizli": 
     {
         "KAYANDUYURUgoster": "TRU",
-        "ANASAYACgoster": "TRUE",                
-    
-        "XXX": "https://ferdimedya.com"
+        "ANASAYACgoster": "TRUE"
 },  
     "002linkler":
       {
@@ -71,16 +71,12 @@
         "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",        
         "KRALTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
         "ANASOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",        
-        "BIRAZOYUN": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
-        
-        "XXX": "https://kralmedya.github.io/SAYACLAR/002sayac.html"    
+        "BIRAZOYUN": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"  
 },
     "002metinler": 
     {
-        "KAYANDUYURU": "         Uygulamanızın 2. versiyonuna Hoş Geldiniz! Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz.",
-      
-        "XXX": "https://ferdimedya.com"
-},
+        "KAYANDUYURU": "         Uygulamanızın 2. versiyonuna Hoş Geldiniz! Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz."
+    },
     "002sayaclar":
       {
         "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/002sayac.html",
