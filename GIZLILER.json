@@ -14,7 +14,6 @@
     "001linkler":
       {
         "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
-        "TVlink": "https://kralmedya.github.io/JSONLAR/links.json",
         "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
         "LOBITV": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",        
         "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",        
@@ -68,7 +67,8 @@
     "002linkler":
       {
         "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/002sayac.html",        
-        "GIRISWEB": "https://kralmedya.github.io/HTML/002sohbetkural.html",        
+        "GIRISWEB": "https://kralmedya.github.io/HTML/002sohbetkural.html",  
+        "TVlink": "https://kralmedya.github.io/JSONLAR/links.json",        
         "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
         "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
         "LOBITV": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",        
