@@ -1,12 +1,13 @@
 {
     "TVlinkler": {        
-        "KRAL": "https://kralmedya.github.io/TVLER/kralptv.html",
-        "xx": "https://kralmedya.github.io/TVLER/kralptv.html",
-        "KR": "https://kralmedya.github.io/TVLER/kralptv.html",
+
         "google": "https://www.google.com",
         "youtube": "https://www.youtube.com",
         "twitter": "https://www.twitter.com",
         "whatsapp": "https://www.whatsapp.com",
+        "KRAL": "https://kralmedya.github.io/TVLER/kralptv.html",
+        "xx": "https://kralmedya.github.io/TVLER/kralptv.html",
+        "KR": "https://kralmedya.github.io/TVLER/kralptv.html",
         "onca": "https://kralmedya.github.io/TVLER/kralptv.html",
         "kraxçşğ": "https://kralmedya.github.io/TVLER/KRALPOPTV.html"        
     }
