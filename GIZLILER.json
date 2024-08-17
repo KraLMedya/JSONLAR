@@ -59,10 +59,10 @@
     "002gizli": 
     {
         "KAYANDUYURUgoster": "TRU",
-        "ANASAYACgoster": "TRUE",
+        "ANASAYACgoster": "TRU",
         "CANLIYAYIN": "TRU",
-        "GIZLIKRALgoster": "TRUE",
-        "GizliLOBIgoster": "TRUE"      
+        "GIZLIKRALgoster": "TRU",
+        "GizliLOBIgoster": "TRU"      
 
       
 },  
