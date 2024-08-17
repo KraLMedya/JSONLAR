@@ -58,9 +58,9 @@
   
     "002gizli": 
     {
-        "KAYANDUYURUgoster": "TRUE",
-        "ANASAYACgoster": "TRUE",
-        "CANLIYAYIN": "TRUE",
+        "KAYANDUYURUgoster": "TRU",
+        "ANASAYACgoster": "TRU",
+        "CANLIYAYIN": "TRU",
         "GIZLIKRALgoster": "TRUE",
         "GizliLOBIgoster": "TRUE"      
 
@@ -94,20 +94,17 @@
         
         "SADECEoyunSAYAC": "https://kralmedya.github.io/SAYACLAR/001sadeceoyunsayac.html",
         "SADECEsohbetSAYAC": "https://kralmedya.github.io/SAYACLAR/001sadeceoyunsayac.html",
-        
-        "TVOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001TVOYUNsayac.html",
-        "TVSOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001TVSOHBETsayac.html",
-        "TVLERsayac": "https://kralmedya.github.io/SAYACLAR/001TVLERsayac.html",
-        
-        "RADYOOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001RADYOOYUNsayac.html",
-        "RADYOSOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001RADYOSOHBETsayac.html",
-        "RADYOLARsayac": "https://kralmedya.github.io/SAYACLAR/001RADYOLARsayac.html",
-        
+
+        "ExtralarANASAYFAsayac": "https://kralmedya.github.io/SAYACLAR/001sadeceoyunsayac.html",
+        "KRALTVoyunsayac": "https://kralmedya.github.io/SAYACLAR/001sadeceoyunsayac.html",
+        "KRALTVsohbetsayac": "https://kralmedya.github.io/SAYACLAR/001sadeceoyunsayac.html",
         "LOBIOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001LOBIOYUNsayac.html",
         "LOBISOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001LOBISOHBETsayac.html",
-        "LOBILERsayac": "https://kralmedya.github.io/SAYACLAR/001LOBILERsayac.html",        
-        
-        "XXX": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"
+        "OYUNSOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001RADYOOYUNsayac.html",
+
+        "TVOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001TVOYUNsayac.html",
+        "TVSOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001TVSOHBETsayac.html",
+        "TVLERsayac": "https://kralmedya.github.io/SAYACLAR/001TVLERsayac.html"
 },  
     "002resimler":
       {
