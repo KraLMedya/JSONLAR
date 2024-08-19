@@ -1,14 +1,45 @@
 {
     "TVlinkler": {        
 
+
+        
+        "KRALTV": "https://kralmedya.github.io/TVLER/kralptv.html",
+        "kraltv": "https://kralmedya.github.io/TVLER/kralptv.html",
+        "kral": "https://kralmedya.github.io/TVLER/kralptv.html",
+
+
+        
+        "SHOW": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
+        "SHOWTV": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
+
+        
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        
+
+
+        
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+
+        
+        "TV8": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
         "efkar": "https://www.google.com",
         "google": "https://www.google.com",
         "youtube": "https://www.youtube.com",
         "twitter": "https://www.twitter.com",
         "whatsapp": "https://www.whatsapp.com",
-        "KRALTV": "https://kralmedya.github.io/TVLER/kralptv.html",
-        "kraltv": "https://kralmedya.github.io/TVLER/kralptv.html",
-        "kral": "https://kralmedya.github.io/TVLER/kralptv.html",
+
         "xx": "https://kralmedya.github.io/TVLER/kralptv.html",
         "fx": "https://kralmedya.github.io/TVLER/kralptv.html",
         "onca": "https://kralmedya.github.io/TVLER/kralptv.html",
@@ -24,7 +55,7 @@
         "fmedya": "https://ferdimedya.com",
         "oycan": "https://kralmedya.github.io/TVLER/TV8",
         "aa2": "https://kralmedya.github.io/TVLER/TV8",
-        "TV8": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+
         "abuk": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
         "zz": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
         "KRALX": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8"
