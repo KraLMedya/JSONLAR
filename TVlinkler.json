@@ -11,29 +11,33 @@
         
         "SHOW": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
         "SHOWTV": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
-
-        
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-        
-
-
-        
-        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
-
-        
+        "KANALD": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8",        
+        "STAR": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
+        "STARTV": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
         "TV8": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+        "TİVİ8": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+        "Tivi8": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+
+
+
+
+        
+        "NAMAZ": "https://www.namazvakti.com/",
+
+        "HABER": "https://www.google.com/search?q=haberler&sca_esv=ad3cebe3ffb4734a&sxsrf=ADLYWIIzMu4J8GqfWw82y6npWEDBFvlLNw%3A1724105474144&source=hp&ei=AsPDZvPwBseFwPAPw5We6AI&iflsig=AL9hbdgAAAAAZsPREtUHlOAuBl-003ENXd3KdP-aGvTu&ved=0ahUKEwjz-duyiYKIAxXHAhAIHcOKBy0Q4dUDCA0&uact=5&oq=haberler&gs_lp=Egdnd3Mtd2l6IghoYWJlcmxlcjIQEAAYgAQYsQMYQxiDARiKBTIQEAAYgAQYsQMYQxiDARiKBTIQEAAYgAQYsQMYQxiDARiKBTILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixAzILEAAYgAQYsQMYgwFIzxdQAFiYF3AAeACQAQGYAakIoAH1H6oBBTYtMi4yuAEDyAEA-AEBmAIDoAKdGMICBRAAGIAEwgIFEC4YgATCAgsQLhiABBixAxiDAZgDAJIHAzYtM6AH7h4&sclient=gws-wiz",
+        "HABERLER": "https://www.google.com/search?q=haberler&sca_esv=ad3cebe3ffb4734a&sxsrf=ADLYWIIzMu4J8GqfWw82y6npWEDBFvlLNw%3A1724105474144&source=hp&ei=AsPDZvPwBseFwPAPw5We6AI&iflsig=AL9hbdgAAAAAZsPREtUHlOAuBl-003ENXd3KdP-aGvTu&ved=0ahUKEwjz-duyiYKIAxXHAhAIHcOKBy0Q4dUDCA0&uact=5&oq=haberler&gs_lp=Egdnd3Mtd2l6IghoYWJlcmxlcjIQEAAYgAQYsQMYQxiDARiKBTIQEAAYgAQYsQMYQxiDARiKBTIQEAAYgAQYsQMYQxiDARiKBTILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMggQABiABBixAzILEAAYgAQYsQMYgwFIzxdQAFiYF3AAeACQAQGYAakIoAH1H6oBBTYtMi4yuAEDyAEA-AEBmAIDoAKdGMICBRAAGIAEwgIFEC4YgATCAgsQLhiABBixAxiDAZgDAJIHAzYtM6AH7h4&sclient=gws-wiz",        
+       
+        "DÖVİZ": "https://www.doviz.com/",
+        "doviz": "https://www.doviz.com/",
+
+        
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        "XXXXXXXX": "XXXXXXXXXXXXXXXXX",
+        
         "efkar": "https://www.google.com",
         "google": "https://www.google.com",
         "youtube": "https://www.youtube.com",
