@@ -58,7 +58,7 @@
   
     "002gizli": 
     {
-        "KAYANDUYURUgoster": "TRU",
+        "KAYANDUYURUgoster": "TRUE",
         "ANASAYACgoster": "TRU",
         "CANLIYAYIN": "TRUE",
         "GIZLIKRALgoster": "TRU",
@@ -83,7 +83,7 @@
 },
     "002metinler": 
     {
-        "KAYANDUYURU": "         Uygulamanızın 2. versiyonuna Hoş Geldiniz! Daha keyifli bir deneyim sunabilmek adına birkaç ekstra özellik ekledik ve Koyu Temayı etkinleştirerek özenle seçtiğimiz renk ve arka planlarla Göz Konforunuz ve batarya ömrünüzü optimize etmeyi amaçladık. ",
+        "KAYANDUYURU": "         Mutlu akşamlar, keyifli dinlemeler! Tam Ekran reklamlarla, Play tuşu haricindeki öğelere (Radyolara) her dokunuşta karşılaştığınızın farkındayız ve bunu düzeltmek için 3. sürümü hazırlıyoruz. Güncelleme en kısa sürede yayınlanacaktır. Sabrınız ve anlayışınız için teşekkür ederiz.",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html"      
     },
