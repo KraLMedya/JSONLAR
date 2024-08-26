@@ -58,7 +58,7 @@
   
     "002gizli": 
     {
-        "KAYANDUYURUgoster": "TRU",
+        "KAYANDUYURUgoster": "TRUE",
         "ANASAYACgoster": "TRUE",
         "CANLIYAYIN": "TRUE",
         "GIZLIKRALgoster": "TRUE",
@@ -83,7 +83,7 @@
 },
     "002metinler": 
     {
-        "KAYANDUYURU": "         3. Sürüme Hoş Geldin! Uygulamanda EXTRALAR bölümünden KRALTV ve belirli Kanalları izleyebilirsin. Yukarıdaki Canlı simgesinden EXTRALAR'a ulaşabilirsin. ",
+        "KAYANDUYURU": "         Hoş Geldin, Mutlu Haftalar! Uygulamanda KRALTV ve belirli Kanalları izleyebilir, Canlı Sohbete anlık duygularını paylaşabilir, Radyon eşliğinde güzel bir oyunla Balon patlatabilirsin :) Yukarıda hareketli simgelerden EXTRALAR'a ulaşabilirsin. Canlı Simgesine tıkladığında açılan ufak pencerede EXTRALAR en altta! ",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html"      
     },
