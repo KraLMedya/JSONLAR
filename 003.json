@@ -1,0 +1,166 @@
+{
+  "gizlibuton": 
+    {
+      "kral022": "TRUE",
+      "configExample": "TRUE",
+      "001tv": ""
+},  
+    "001goster": 
+    {
+        "KAYANDUYURUgoster": "TRUE",
+        "ANASAYACgoster": "TRU",            
+        "EXTRALAR": "TRUE"
+},
+    "001linkler":
+      {
+        "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
+        "LOBITV": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",        
+        "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",        
+        "KRALTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "ANASOHBET": "https://www5.cbox.ws/box/?boxid=952177&boxtag=001SHB",        
+        "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html"
+},
+    "001metinler": 
+    {
+        "KAYANDUYURU": "         Uygulamanızın 2. versiyonuna Hoş Geldiniz! Eklenmesini istediğiniz Kameraları bize bildirebilirsiniz. Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz."
+},
+    "001sayaclar":
+      {
+        "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/001sayac.html",
+        "STREAMSAYAC": "https://kralmedya.github.io/SAYACLAR/001STREAMSAYAC.html",
+        
+        "SADECEoyunSAYAC": "https://kralmedya.github.io/SAYACLAR/001sadeceoyunsayac.html",
+        
+        "TVOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001TVOYUNsayac.html",
+        "TVSOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001TVSOHBETsayac.html",
+        "TVLERsayac": "https://kralmedya.github.io/SAYACLAR/001TVLERsayac.html",
+        
+        "RADYOOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001RADYOOYUNsayac.html",
+        "RADYOSOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001RADYOSOHBETsayac.html",
+        "RADYOLARsayac": "https://kralmedya.github.io/SAYACLAR/001RADYOLARsayac.html",
+        
+        "LOBIOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001LOBIOYUNsayac.html",
+        "LOBISOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001LOBISOHBETsayac.html",
+        "LOBILERsayac": "https://kralmedya.github.io/SAYACLAR/001LOBILERsayac.html"        
+},
+
+
+
+
+
+
+
+
+
+  
+
+  
+    "002gizli": 
+    {
+        "KAYANDUYURUgoster": "TRU",
+        "ANASAYACgoster": "TRU",
+        "CANLIYAYIN": "TRUE",
+        "GIZLIKRALgoster": "TRU",
+        "GizliLOBIgoster": "TRU"      
+
+      
+},  
+    "002linkler":
+      {
+        "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/002sayac.html",        
+        "GIRISWEB": "https://kralmedya.github.io/HTML/002sohbetkural.html",
+        "GIZLIKRAL": "https://kralmedya.github.io/TVLER/kralptv.html",
+        "GIZLILOBI": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "TVlink": "https://kralmedya.github.io/JSONLAR/TVlinkler.json",        
+        "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
+        "LOBITV": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",        
+        "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",        
+        "KRALTV": "https://kralmedya.github.io/TVLER/kralptv.html",
+        "ANASOHBET": "https://www5.cbox.ws/box/?boxid=913679&boxtag=KFMSHB",        
+        "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html"  
+},
+    "002metinler": 
+    {
+        "KAYANDUYURU": "Mutlu Haftalar, Hoş Geldin! Uygulamanı Arkadaşlarınla paylaşıp, Canlı Sohbette Onlarla Radyonu dinlerken sohbet edebilirsin. Birlikte aynı TV'yi de izleyebilirsin. Uygulaman İnteraktiftir, birçok özelliğe sahiptir. Hadi onu keşfet :)",
+        "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
+        "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html"      
+    },
+    "002sayaclar":
+      {
+        "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/000FAKEsayac",
+        "STREAMSAYAC": "https://kralmedya.github.io/SAYACLAR/002STREAMSAYAC.html",
+        
+        "SADECEoyunSAYAC": "https://kralmedya.github.io/SAYACLAR/002sadeceoyunsayac.html",
+        "SADECEsohbetSAYAC": "https://kralmedya.github.io/SAYACLAR/002sadeceSOHBETsayac.html",
+
+        "ExtralarANASAYFAsayac": "https://kralmedya.github.io/SAYACLAR/002ExtralarANASAYFAsayac.html",
+        "KRALTVoyunsayac": "https://kralmedya.github.io/SAYACLAR/002KRALTVoyunsayac.html",
+        "KRALTVsohbetsayac": "https://kralmedya.github.io/SAYACLAR/002KRALTVsohbetsayac.html",
+        
+        "LOBIOYUNsayac": "https://kralmedya.github.io/SAYACLAR/002LOBIOYUNsayac.html",
+        "LOBISOHBETsayac": "https://kralmedya.github.io/SAYACLAR/002LOBISOHBETsayac.html",
+        "OYUNSOHBETsayac": "https://kralmedya.github.io/SAYACLAR/002OYUNSOHBETsayac.html",
+
+        "TVOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001TVOYUNsayac.html",
+        "TVSOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001TVSOHBETsayac.html",
+        "TVLERsayac": "https://kralmedya.github.io/SAYACLAR/001TVLERsayac.html"
+},  
+    "002resimler":
+      {
+        "KRALTVLOGO": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
+        "TVLERLOGO": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
+        "KAHVE": "https://kralmedya.github.io/FOTOLAR/kahve.gif",
+        "X2": "https://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "X3": "https://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "X4": "https://kralmedya.github.io/SAYACLAR/002sayac.html"
+},
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+  "002": 
+    {
+        "002goster": "TRU",
+        "002gosterTEST": "true",      
+        "BIRAZOYUN": "https://ferdimedya.com"
+},
+  "002link":
+      {
+        "TVLER": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
+        "KRALTVTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",        
+        "KRALTVSOHBET": "https://www5.cbox.ws/box/?boxid=913679&boxtag=KFMSHB",        
+        "BIRAZOYUN": "https://kralmedya.github.io/TVLER/BIRAZOYUN.html",
+        "EFKARLOBI": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
+        "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",
+        "SAYAC": "https://kralmedya.github.io/SAYACLAR/002sayac.html"
+}
+
+  
+}
