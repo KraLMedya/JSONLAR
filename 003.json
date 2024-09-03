@@ -1,7 +1,7 @@
 {
   "GOSTERgizle": 
     {
-      "PLAYBUTON": "FALSE",
+      "PLAYBUTON": "TRU",
       "configExample": "TRUE",
       "001tv": ""
 },  
@@ -43,17 +43,11 @@
         "LOBIOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001LOBIOYUNsayac.html",
         "LOBISOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001LOBISOHBETsayac.html",
         "LOBILERsayac": "https://kralmedya.github.io/SAYACLAR/001LOBILERsayac.html"        
-}
+},
+
+    "XXX": 
     
-  
-
-
-}
-
-
-
-
-      {
+    {
         "banner_id": "ca-app-pub-3940256099942544/6300978111",
         "STREAMSAYAC": "https://kralmedya.github.io/SAYACLAR/001STREAMSAYAC.html",
         
@@ -70,4 +64,5 @@
         "LOBIOYUNsayac": "https://kralmedya.github.io/SAYACLAR/001LOBIOYUNsayac.html",
         "LOBISOHBETsayac": "https://kralmedya.github.io/SAYACLAR/001LOBISOHBETsayac.html",
         "LOBILERsayac": "https://kralmedya.github.io/SAYACLAR/001LOBILERsayac.html"        
+}
 }
