@@ -1,8 +1,8 @@
 {
     "003-GOSTERgizle": 
     {
-      "PLAYBUTON": "TRU",
-      "ARABESKgizli": "TRU",
+      "PLAYBUTON": "TRUE",
+      "ARABESKgizli": "TRUE",
       "SOHBETgizli": "TRUE"
 },  
     "003-STREAMURL": 
