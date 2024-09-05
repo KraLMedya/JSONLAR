@@ -1,9 +1,9 @@
 {
-  "GOSTERgizle": 
+    "003-GOSTERgizle": 
     {
       "PLAYBUTON": "TRUE"
 },  
-    "STREAMURL": 
+    "003-STREAMURL": 
     {
         "KRALFM": "http://46.20.3.204/;"
 }, 
@@ -26,12 +26,12 @@
         "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/001sayac.html",
         "STREAMSAYAC": "https://kralmedya.github.io/SAYACLAR/001STREAMSAYAC.html"       
 },
-      "FOTOLAR": 
+    "003-FOTOLAR": 
     {
         "ARABESK": "https://kralmedya.github.io/HTML/003-ARABESK.html"
 }, 
 
-    "REKLAMLAR": 
+    "003-REKLAMLAR": 
     
     {
         "BANNERANA"           : "ca-app-pub-3940256099942544/6300978111",
