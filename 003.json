@@ -23,11 +23,12 @@
         "ANASOHBET": "https://www5.cbox.ws/box/?boxid=952177&boxtag=001SHB",        
         "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html"
 },
-    "001metinler": 
+    "003-metinler": 
     {
-        "KAYANDUYURU": "         Uygulamanızın 2. versiyonuna Hoş Geldiniz! Eklenmesini istediğiniz Kameraları bize bildirebilirsiniz. Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz."
+        "KAYANDUYURU": "         Uygulamanızın 2. versiyonuna Hoş Geldiniz! Eklenmesini istediğiniz Kameraları bize bildirebilirsiniz. Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz.",
+        "USTSLOGAN": "ARABESKİN KRALI"
 },
-    "001sayaclar":
+    "003-sayaclar":
       {
         "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/001sayac.html",
         "STREAMSAYAC": "https://kralmedya.github.io/SAYACLAR/001STREAMSAYAC.html"       
