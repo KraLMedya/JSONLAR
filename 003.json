@@ -17,7 +17,7 @@
     "003-STREAMURL": 
     {
         "KRALFM_asil": "http://46.20.3.205:80/kralfmmp3",
-        "KRALFM": "http://46.20.3.201/;",
+        "KRALFM": "http://46.20.3.204/;",
         "EKRAN2SARKIADI": "http://46.20.3.204/;",
         "YEDEK_KRALFM": "http://46.20.3.204/;",
         "YEDEK_KRALPOPRADYO": "http://46.20.3.201/;",
