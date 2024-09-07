@@ -6,6 +6,8 @@
       "SOHBETgizli": "TRU",
       "ALTALANKOMPLE": "TRUE",
 
+      "USTSLOGAN": "TRU",
+
       "KAYANDUYURUgoster": "TRU",
       "ANASAYACgoster": "TRU",
       "CANLIYAYIN": "TRUE",
@@ -48,7 +50,6 @@
 }, 
 
     "003-REKLAMLAR": 
-    
     {
         "BANNERANA"           : "ca-app-pub-3940256099942544/6300978111",
         "GECISANA"            : "ca-app-pub-3940256099942544/1033173712",
