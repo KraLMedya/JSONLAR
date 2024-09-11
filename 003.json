@@ -2,14 +2,14 @@
     "003-GOSTERgizle": 
     {
       "PLAYBUTON": "TRUE",
-      "ARABESKgizli": "TRU",
+      "ARABESKgizli": "TRUE",
       "SOHBETgizli": "TRU",
       "ALTALANKOMPLE": "TRUE",
 
-      "USTSLOGAN": "TRU",
+      "USTSLOGAN": "TRUE",
 
-      "KAYANDUYURUgoster": "TRU",
-      "ANASAYACgoster": "TRU",
+      "KAYANDUYURUgoster": "TRUE",
+      "ANASAYACgoster": "TRUE",
       "CANLIYAYIN": "TRUE",
       "GIZLIKRALgoster": "TRU",
       "GizliLOBIgoster": "TRU",
