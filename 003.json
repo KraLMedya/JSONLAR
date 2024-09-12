@@ -27,6 +27,7 @@
 }, 
     "003-linkler":
       {        
+        "KPR": "http://kralmedya.top/RADYOLAR/KPR.html",
         "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
         "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
         "LOBITV": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",        
