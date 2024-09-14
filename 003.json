@@ -3,9 +3,11 @@
     {
       "PLAYBUTON": "TRUE",
       "PLAYBUTONextra2": "TRU",
-      "ARABESKgizli": "TRUE",
+      "ARABESKgizli": "TRU",
       "SOHBETgizli": "TRU",
       "ALTALANKOMPLE": "TRUE",
+        
+      "KRALTVBUTON": "TRUE",
 
       "USTSLOGAN": "TRU",
 
@@ -56,7 +58,7 @@
     {
         "ARKA": "https://i.pinimg.com/originals/b0/10/73/b01073ee5ba725fc48c2e831b9e22a09.gif",
         "KRALTVGIF": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
-        "EKRANLOGO": "https://kralmedya.github.io/FOTOLAR/ablogo.webp",
+        "EKRANLOGO": "https://kralmedya.github.io/FOTOLAR/KRALMEDYA-TRANS.png",
         "EKRANLOGO-YEDEK-2": "https://kralmedya.github.io/FOTOLAR/ablogo.webp",
         "EKRANLOGO-YEDEK": "https://kralmedya.github.io/FOTOLAR/KRALMEDYA-TRANS.png",
         "ARABESK": "https://kralmedya.github.io/HTML/003-ARABESK.html",
