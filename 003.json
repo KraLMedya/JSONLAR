@@ -9,7 +9,7 @@
 
       "USTSLOGAN": "TRU",
 
-      "KAYANDUYURUgoster": "TRU",
+      "KAYANDUYURUgoster": "TRUE",
       "ANASAYACgoster": "TRU",
       "CANLIYAYIN": "TRU",
       "GIZLIKRALgoster": "TRU",
@@ -42,7 +42,7 @@
 },
     "003-metinler": 
     {
-        "KAYANDUYURU": "         Uygulamanızın 2. versiyonuna Hoş Geldiniz! Eklenmesini istediğiniz Kameraları bize bildirebilirsiniz. Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz.",
+        "KAYANDUYURU": "Mevlid Kandilimiz Mübârek Olsun. Tüm Duâ ve İbadetlerin kabulü dilekleriyle. ",
         "USTSLOGAN": "ARABESKİNnnn KRALI",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html" 
