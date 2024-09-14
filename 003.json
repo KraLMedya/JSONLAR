@@ -28,6 +28,7 @@
     "003-linkler":
       {        
         "KPR": "http://kralmedya.top/RADYOLAR/KPR.html",
+        "TVlink": "https://kralmedya.github.io/JSONLAR/TVlinkler.json", 
         "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
         "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
         "LOBITV": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",        
@@ -42,7 +43,9 @@
     "003-metinler": 
     {
         "KAYANDUYURU": "         Uygulamanızın 2. versiyonuna Hoş Geldiniz! Eklenmesini istediğiniz Kameraları bize bildirebilirsiniz. Google Play'de, uygulamanızı 5 yıldız ve güzel yorumlarınızla değerlendirmeniz bizim için gerçekten çok önemlidir. Desteğiniz için çok teşekkür ederiz.",
-        "USTSLOGAN": "ARABESKİNnnn KRALI"
+        "USTSLOGAN": "ARABESKİNnnn KRALI",
+        "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
+        "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html" 
 },
     "003-sayaclar":
       {
