@@ -9,7 +9,7 @@
       "KRALTVBUTON": "TRUE",
       "USTSLOGAN": "TRUE",
       "KAYANDUYURUgoster": "TRU",
-      "ANASAYACgoster": "TRU",
+      "ANASAYACgoster": "TRUE",
       "CANLIYAYIN": "TRU",
       "GIZLIKRALgoster": "TRU",
       "GizliLOBIgoster": "TRU",
@@ -20,7 +20,7 @@
         "KRALFM_asil": "http://46.20.3.205:80/kralfmmp3",
         "KRALFM": "http://46.20.3.206/;",
         "KRALFMyedek": "http://kralwmp.radyotvonline.com/;",
-        "EKRAN2SARKIADI": "http://46.20.3.204/;",
+        "EKRAN2SARKIADI": "http://kralwmp.radyotvonline.com/;",
         "YEDEK_KRALFM": "http://46.20.3.204/;",
         "YEDEK_KRALPOPRADYO": "http://46.20.3.201/;",
         "KRALPOPRADYO": "http://46.20.3.201/;"
