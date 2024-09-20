@@ -3,11 +3,11 @@
     {
       "PLAYBUTON": "TRUE",
       "PLAYBUTONextra2": "TRU",
-      "ARABESKgizli": "TRU",
+      "ARABESKgizli": "TRUE",
       "SOHBETgizli": "TRU",
       "ALTALANKOMPLE": "TRUE",
       "KRALTVBUTON": "TRU",
-      "USTSLOGAN": "TRU",
+      "USTSLOGAN": "TRUE",
       "KAYANDUYURUgoster": "TRU",
       "ANASAYACgoster": "TRU",
       "CANLIYAYIN": "TRU",
@@ -18,7 +18,8 @@
     "003-STREAMURL": 
     {
         "KRALFM_asil": "http://46.20.3.205:80/kralfmmp3",
-        "KRALFM": "http://kralwmp.radyotvonline.com/;",
+        "KRALFM": "http://46.20.3.204/;",
+        "KRALFMyedek": "http://kralwmp.radyotvonline.com/;",
         "EKRAN2SARKIADI": "http://46.20.3.204/;",
         "YEDEK_KRALFM": "http://46.20.3.204/;",
         "YEDEK_KRALPOPRADYO": "http://46.20.3.201/;",
@@ -42,7 +43,7 @@
     "003-metinler": 
     {
         "KAYANDUYURU": "Mevlid Kandilimiz Mübârek Olsun. Tüm Duâ ve İbadetlerin kabulü dilekleriyle. ",
-        "USTSLOGAN": "ARABESKİNnnn KRALI",
+        "USTSLOGAN": "ARABESKİN KRALI",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html" 
 },
@@ -55,7 +56,8 @@
     {
         "ARKA": "https://i.pinimg.com/originals/b0/10/73/b01073ee5ba725fc48c2e831b9e22a09.gif",
         "KRALTVGIF": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
-        "EKRANLOGO": "https://kralmedya.github.io/FOTOLAR/KRALMEDYA-TRANS.png",
+        "KRALTVGIFYEDEK": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
+        "EKRANLOGO": "https://kralmedya.github.io/FOTOLAR/KRALFMgif.gif",
         "EKRANLOGO-YEDEK-2": "https://kralmedya.github.io/FOTOLAR/ablogo.webp",
         "EKRANLOGO-YEDEK": "https://kralmedya.github.io/FOTOLAR/KRALMEDYA-TRANS.png",
         "ARABESK": "https://kralmedya.github.io/HTML/003-ARABESK.html",
