@@ -1,0 +1,86 @@
+{
+    "003-GOSTERgizle": 
+    {
+      "PLAYBUTON": "TRUE",
+      "PLAYBUTONextra2": "TRU",
+      "ARABESKgizli": "TRUE",
+      "SOHBETgizli": "TRU",
+      "ALTALANKOMPLE": "TRUE",
+      "KRALTVBUTON": "TRUE",
+      "USTSLOGAN": "TRUE",
+      "KAYANDUYURUgoster": "TRU",
+      "ANASAYACgoster": "TRU",
+      "CANLIYAYIN": "TRU",
+      "GIZLIKRALgoster": "TRU",
+      "GizliLOBIgoster": "TRU",
+      "GIRISWEB": "TRUE"     
+},  
+    "003-STREAMURL": 
+    {
+        "KRALFM_asil": "http://46.20.3.205:80/kralfmmp3",
+        "KRALFM": "http://46.20.3.206/;",
+        "KRALFMyedek": "http://kralwmp.radyotvonline.com/;",
+        "EKRAN2SARKIADI": "http://kralwmp.radyotvonline.com/;",
+        "YEDEK_KRALFM": "http://46.20.3.204/;",
+        "YEDEK_KRALPOPRADYO": "http://46.20.3.201/;",
+        "KRALPOPRADYO": "http://46.20.3.201/;"
+}, 
+    "003-linkler":
+      {        
+        "KPR": "http://kralmedya.top/RADYOLAR/KPR.html",
+        "TVlink": "https://kralmedya.github.io/JSONLAR/TVlinkler.json", 
+        "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
+        "LOBITV": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",        
+        "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",        
+        "KRALTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "ANASOHBET": "https://www5.cbox.ws/box/?boxid=952177&boxtag=001SHB",
+        "GIRISKURAL": "https://kralmedya.github.io/HTML/002sohbetkural.html",
+        "GIRISWEB": "https://kralmedya.github.io/HTML/003-girisweb-BOS.html",
+        "GIRISWEBxxx": "https://kralmedya.github.io/HTML/003-girisweb.html",
+        "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html"
+},
+    "003-metinler": 
+    {
+        "KAYANDUYURU": "Mevlid Kandilimiz Mübârek Olsun. Tüm Duâ ve İbadetlerin kabulü dilekleriyle. ",
+        "USTSLOGAN": "ARABESKİN KRALI",
+        "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
+        "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html" 
+},
+    "003-sayaclar":
+      {
+        "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/003sayac.html",
+        "STREAMSAYAC": "https://kralmedya.github.io/SAYACLAR/001STREAMSAYAC.html"       
+},
+    "003-FOTOLAR": 
+    {
+        "ARKA": "https://i.pinimg.com/originals/b0/10/73/b01073ee5ba725fc48c2e831b9e22a09.gif",
+        "KRALTVGIF": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
+        "KRALTVGIFYEDEK": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
+        "EKRANLOGO": "https://kralmedya.github.io/FOTOLAR/KRALFMgif.gif",
+        "EKRANLOGO-YEDEK-2": "https://kralmedya.github.io/FOTOLAR/ablogo.webp",
+        "EKRANLOGO-YEDEK": "https://kralmedya.github.io/FOTOLAR/KRALMEDYA-TRANS.png",
+        "ARABESK": "https://kralmedya.github.io/HTML/003-ARABESK.html",
+        "SOHBET": "https://www5.cbox.ws/box/?boxid=913679&boxtag=KFMSHB"
+}, 
+
+    "003-REKLAMLAR": 
+    {
+        "BANNERANA"           : "ca-app-pub-3210781577321184/4289841284",
+        "BANNER_EKRAN2"       : "ca-app-pub-3210781577321184/9207687123",
+        "GECISANA"            : "ca-app-pub-3210781577321184/5173083087",
+        "YERELANA"            : "ca-app-pub-3210781577321184/2546919744",
+        "OPENANA"             : "ca-app-pub-3210781577321184/6252701781",
+        "XXXXXX"              : "ca-app-pub-3940256099942544/6300978111",
+        "XXXXXX"              : "ca-app-pub-3940256099942544/6300978111",
+        "XXXXXX"              : "ca-app-pub-3940256099942544/6300978111",
+        "XXXXXX"              : "ca-app-pub-3940256099942544/6300978111",
+        "XXXXXX"              : "ca-app-pub-3940256099942544/6300978111",
+        "XXXXXX"              : "ca-app-pub-3940256099942544/6300978111",
+        "ADMOBANAID"          : "ca-app-pub-3940256099942544~3347511713",
+        "BANNERTEST"          : "ca-app-pub-3940256099942544/6300978111",
+        "GECISTEST"           : "ca-app-pub-3940256099942544/1033173712",
+        "YERELTEST"           : "ca-app-pub-3940256099942544/2247696110",
+        "OPENTEST"            : "ca-app-pub-3940256099942544/9257395921"
+}
+}
