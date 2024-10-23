@@ -18,7 +18,7 @@
     "003-STREAMURL": 
     {
         "KRALFM_asil": "http://46.20.3.205:80/kralfmmp3",
-        "KRALFM": "http://46.20.3.206/;",
+        "KRALFM": "http://provisioning.streamtheworld.com/pls/POP90AAC.pls",
         "KRALFMyedek": "http://kralwmp.radyotvonline.com/;",
         "EKRAN2SARKIADI": "http://kralwmp.radyotvonline.com/;",
         "YEDEK_KRALFM": "http://46.20.3.204/;",
