@@ -1,0 +1,88 @@
+{
+    "003-GOSTERgizle": 
+    {
+      "PLAYBUTON": "TRUE",
+      "PLAYBUTONextra2": "TRU",
+      "ARABESKgizli": "TRU",
+      "SOHBETgizli": "TRU",
+      "ALTALANKOMPLE": "TRUE",
+      "KRALTVBUTON": "TRUe",
+      "USTSLOGAN": "TRUE",
+      "KAYANDUYURUgoster": "TRU",
+      "ANASAYACgoster": "TRU",
+      "CANLIYAYIN": "TRU",
+      "GIZLIKRALgoster": "TRU",
+      "GizliLOBIgoster": "TRU",
+      "GIRISWEB": "TRUE"     
+},  
+    "003-STREAMURL": 
+    {
+        "KRALFM_asil": "http://46.20.3.205:80/kralfmmp3",
+        "KRALFM": "https://27873.live.streamtheworld.com/SC008_SO1AAC.aac",
+        "KRALFMyedek": "http://kralwmp.radyotvonline.com/;",
+        "EKRAN2SARKIADI": "https://27873.live.streamtheworld.com/SC008_SO1AAC.aac",
+        "YEDEK_KRALFM": "http://46.20.3.204/;",
+        "YEDEK_KRALPOPRADYO": "http://46.20.3.201/;",
+        "KRALPOPRADYO": "http://46.20.3.201/;"
+}, 
+    "003-linkler":
+      {        
+        "KPR": "http://kralmedya.top/RADYOLAR/KPR.html",
+        "TVlink": "https://kralmedya.github.io/JSONLAR/TVlinkler.json", 
+        "TVLER": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "RADYOLAR": "https://kralmedya.github.io/HTML/tadilat.html",        
+        "LOBITV": "https://kralmedya.github.io/TVLER/KRALMEDYATV2.html",        
+        "LOBISOHBET": "https://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",        
+        "KRALTV": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "ANASOHBET": "https://www5.cbox.ws/box/?boxid=952177&boxtag=001SHB",
+        "GIRISKURAL": "https://kralmedya.github.io/HTML/002sohbetkural.html",
+        "GIRISWEB": "https://kralmedya.github.io/HTML/007-girisweb.html",
+        "GIRISWEBbosss": "https://kralmedya.github.io/HTML/003-girisweb-BOS.html",
+        "GIRISWEBxxx": "https://kralmedya.github.io/HTML/003-girisweb.html",
+        "BIRAZOYUN": "https://kralmedya.github.io/HTML/BIRAZOYUN.html"
+},
+    "003-metinler": 
+    {
+        "KAYANDUYURU": "Tamamını yalnızca MİLLETİMİZE hitaben ürettiğimiz uygulamalarda bizleri yalnız bırakmayacağınızı umuyoruz. Sadece Türkiye'ye hitaben uygulamaları normal şartlarda hiç kimse üretmiyor! Çünkü kazanç kapısı olan sektörlerden biri olan Mobil yazılımda GLOBAL'e oynamaktan başka bir alternatif bulunmuyor, geçim kaynağı olarak verilen emeklerin devamlılığı için. O bakımdan uygulamanıza Google Play'de yazacağınız güzel yorumlar ve yapacağınız 5 yıldızlı değerlendirmeler bizler için verebileceğiniz en önemli ve en büyük destektir Günümüz yaşam koşullarının ne derece vahim olduğu hepimizce bilinmekte. Lütfen bizleri yalnız ve desteksiz bırakmayın. Katkılarınız için peşinen teşekkür ederiz.",
+        "USTSLOGAN": "KADER YAZAR, EFKAR ÇALAR",
+        "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
+        "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html" 
+},
+    "003-sayaclar":
+      {
+        "ANASAYAC": "https://kralmedya.github.io/SAYACLAR/003sayac.html",
+        "STREAMSAYAC": "https://kralmedya.github.io/SAYACLAR/001STREAMSAYAC.html"       
+},
+    "003-FOTOLAR": 
+    {
+        "ARKA": "https://i.pinimg.com/originals/ce/68/39/ce6839025bf5863bcde4c60473126ac5.gif",
+        "ARKA006": "https://i.pinimg.com/originals/74/75/76/7475769d66f0039bef0fb5b0870a33ae.gif",
+        "ARKAyedek": "https://i.pinimg.com/originals/b0/10/73/b01073ee5ba725fc48c2e831b9e22a09.gif",
+        "KRALTVGIF": "https://kralmedya.github.io/FOTOLAR/007-logo.png",
+        "KRALTVGIFYEDEK": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
+        "EKRANLOGO": "https://kralmedya.github.io/FOTOLAR/007-logo.png",
+        "EKRANLOGO-YEDEK-2": "https://kralmedya.github.io/FOTOLAR/ablogo.webp",
+        "EKRANLOGO-YEDEK": "https://kralmedya.github.io/FOTOLAR/KRALMEDYA-TRANS.png",
+        "ARABESK": "https://kralmedya.github.io/HTML/003-ARABESK.html",
+        "SOHBET": "https://www5.cbox.ws/box/?boxid=913679&boxtag=KFMSHB"
+}, 
+
+    "003-REKLAMLAR": 
+    {
+        "BANNERANA":     "ca-app-pub-3940256099942544/6300978111",
+        "BANNER_EKRAN2": "ca-app-pub-3940256099942544/6300978111",
+        "GECISANA":      "ca-app-pub-3940256099942544/1033173712",
+        "YERELANA":      "ca-app-pub-3940256099942544/2247696110",
+        "OPENANA":       "ca-app-pub-3940256099942544/9257395921",
+
+        "BNR": "ca-app-pub-3940256099942544/6300978111",
+        "GCS": "ca-app-pub-3940256099942544/1033173712",
+        "YRL": "ca-app-pub-3940256099942544/2247696110",
+        "OPN": "ca-app-pub-3940256099942544/9257395921",
+
+        "BNR2": "ca-app-pub-3210781577321184/4289841284",
+        "GCS2": "ca-app-pub-3210781577321184/5173083087",
+        "YRL2": "ca-app-pub-3210781577321184/2546919744",
+        "OPN2": "ca-app-pub-3210781577321184/1233838072"
+}
+}
