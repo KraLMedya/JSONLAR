@@ -18,9 +18,9 @@
     "003-STREAMURL": 
     {
         "KRALFM_asil": "http://46.20.3.205:80/kralfmmp3",
-        "KRALFM": "https://27873.live.streamtheworld.com/SC008_SO1AAC.aac",
+        "KRALFM": "https://edge1.socialsmart.tv/radyo2000/bant1/icecast.audio",
         "KRALFMyedek": "http://kralwmp.radyotvonline.com/;",
-        "EKRAN2SARKIADI": "https://27873.live.streamtheworld.com/SC008_SO1AAC.aac",
+        "EKRAN2SARKIADI": "https://edge1.socialsmart.tv/radyo2000/bant1/icecast.audio",
         "YEDEK_KRALFM": "http://46.20.3.204/;",
         "YEDEK_KRALPOPRADYO": "http://46.20.3.201/;",
         "KRALPOPRADYO": "http://46.20.3.201/;"
@@ -55,10 +55,10 @@
 },
     "003-FOTOLAR": 
     {
-        "ARKA": "https://i.pinimg.com/originals/ce/68/39/ce6839025bf5863bcde4c60473126ac5.gif",
+        "ARKA": "https://i.pinimg.com/originals/c4/cd/7d/c4cd7d9a97ce3e5e25856c1e12f094d6.gif",
         "ARKA006": "https://i.pinimg.com/originals/74/75/76/7475769d66f0039bef0fb5b0870a33ae.gif",
         "ARKAyedek": "https://i.pinimg.com/originals/b0/10/73/b01073ee5ba725fc48c2e831b9e22a09.gif",
-        "KRALTVGIF": "https://kralmedya.github.io/FOTOLAR/007-logo.png",
+        "KRALTVGIF": "https://kralmedya.github.io/FOTOLAR/008-ANALOGO-512.png",
         "KRALTVGIFYEDEK": "https://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
         "EKRANLOGO": "https://kralmedya.github.io/FOTOLAR/008-ANALOGO-512.png",
         "EKRANLOGO-YEDEK-2": "https://kralmedya.github.io/FOTOLAR/ablogo.webp",
