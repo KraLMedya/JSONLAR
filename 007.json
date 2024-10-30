@@ -20,7 +20,7 @@
         "KRALFM_asil": "http://46.20.3.205:80/kralfmmp3",
         "KRALFM": "https://27873.live.streamtheworld.com/SC008_SO1AAC.aac",
         "KRALFMyedek": "http://kralwmp.radyotvonline.com/;",
-        "EKRAN2SARKIADI": "https://27873.live.streamtheworld.com/SC008_SO1AAC.aac",
+        "EKRAN2SARKIADI": "",
         "YEDEK_KRALFM": "http://46.20.3.204/;",
         "YEDEK_KRALPOPRADYO": "http://46.20.3.201/;",
         "KRALPOPRADYO": "http://46.20.3.201/;"
@@ -69,11 +69,11 @@
 
     "003-REKLAMLAR": 
     {
-        "BANNERANA":     "ca-app-pub-3940256099942544/6300978111",
-        "BANNER_EKRAN2": "ca-app-pub-3940256099942544/6300978111",
-        "GECISANA":      "ca-app-pub-3940256099942544/1033173712",
-        "YERELANA":      "ca-app-pub-3940256099942544/2247696110",
-        "OPENANA":       "ca-app-pub-3940256099942544/9257395921",
+        "BANNERANA":     "ca-app-pub-3210781577321184/8696821702",
+        "BANNER_EKRAN2": "ca-app-pub-3210781577321184/8696821702",
+        "GECISANA":      "ca-app-pub-3210781577321184/4707445545",
+        "YERELANA":      "ca-app-pub-3210781577321184/6173895878",
+        "OPENANA":       "ca-app-pub-3210781577321184/1889710518",
 
         "BNR": "ca-app-pub-3940256099942544/6300978111",
         "GCS": "ca-app-pub-3940256099942544/1033173712",
