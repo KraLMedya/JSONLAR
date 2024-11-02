@@ -7,7 +7,7 @@
 },  
     "001goster": 
     {
-        "KAYANDUYURUgoster": "TRU",
+        "KAYANDUYURUgoster": "TRUE",
         "ANASAYACgoster": "TRUE",            
         "EXTRALAR": "TRU"
 },
@@ -23,7 +23,7 @@
 },
     "001metinler": 
     {
-        "KAYANDUYURU": "Tamamını yalnızca MİLLETİMİZE hitaben ürettiğimiz uygulamalarda bizleri yalnız bırakmayacağınızı umuyoruz. Sadece Türkiye'ye hitaben uygulamaları normal şartlarda hiç kimse üretmiyor! Çünkü kazanç kapısı olan sektörlerden biri olan Mobil yazılımda GLOBAL'e oynamaktan başka bir alternatif bulunmuyor, geçim kaynağı olarak verilen emeklerin devamlılığı için. O bakımdan uygulamanıza Google Play'de yazacağınız güzel yorumlar ve yapacağınız 5 yıldızlı değerlendirmeler bizler için verebileceğiniz en önemli ve en büyük destektir Günümüz yaşam koşullarının ne derece vahim olduğu hepimizce bilinmekte. Lütfen bizleri yalnız ve desteksiz bırakmayın. Katkılarınız için peşinen teşekkür ederiz."
+        "KAYANDUYURU": "Sizlere daha konforlu kullanımlar sunabilmek için, tüm uygulamalarımızda reklam aralığını 3'er dakikaya çıkarıyoruz. Lütfen bizleri yalnız ve desteksiz bırakmayın. Google Play'de puan ve yorumlarınıza ihtiyacımız var. Katkılarınız için peşinen teşekkür ederiz."
 },
     "001sayaclar":
       {
@@ -58,7 +58,7 @@
   
     "002gizli": 
     {
-        "KAYANDUYURUgoster": "TRU",
+        "KAYANDUYURUgoster": "TRUE",
         "ANASAYACgoster": "TRUE",
         "CANLIYAYIN": "TRUE",
         "GIZLIKRALgoster": "TRU",
@@ -83,7 +83,7 @@
 },
     "002metinler": 
     {
-        "KAYANDUYURU": "Tamamını yalnızca MİLLETİMİZE hitaben ürettiğimiz uygulamalarda bizleri yalnız bırakmayacağınızı umuyoruz. Sadece Türkiye'ye hitaben uygulamaları normal şartlarda hiç kimse üretmiyor! Çünkü kazanç kapısı olan sektörlerden biri olan Mobil yazılımda GLOBAL'e oynamaktan başka bir alternatif bulunmuyor, geçim kaynağı olarak verilen emeklerin devamlılığı için. O bakımdan uygulamanıza Google Play'de yazacağınız güzel yorumlar ve yapacağınız 5 yıldızlı değerlendirmeler bizler için verebileceğiniz en önemli ve en büyük destektir Günümüz yaşam koşullarının ne derece vahim olduğu hepimizce bilinmekte. Lütfen bizleri yalnız ve desteksiz bırakmayın. Katkılarınız için peşinen teşekkür ederiz.",
+        "KAYANDUYURU": "Sizlere daha konforlu kullanımlar sunabilmek için, tüm uygulamalarımızda reklam aralığını 3'er dakikaya çıkarıyoruz. Lütfen bizleri yalnız ve desteksiz bırakmayın. Google Play'de puan ve yorumlarınıza ihtiyacımız var. Katkılarınız için peşinen teşekkür ederiz.",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html"      
     },
