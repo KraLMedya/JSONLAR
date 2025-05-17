@@ -9,7 +9,7 @@
     {
         "KAYANDUYURUgoster": "TRU",
         "ANASAYACgoster": "TRUE",            
-        "EXTRALAR": "TRU"
+        "EXTRALAR": "TRUE"
 },
     "001linkler":
       {
@@ -61,7 +61,7 @@
         "KAYANDUYURUgoster": "TRUe",
         "ANASAYACgoster": "TRUE",
         "CANLIYAYIN": "TRUE",
-        "GIZLIKRALgoster": "TRUE",
+        "GIZLIKRALgoster": "TRU",
         "GizliLOBIgoster": "TRU"      
 
       
