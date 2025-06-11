@@ -8,7 +8,7 @@
       "ALTALANKOMPLE": "TRUE",
       "KRALTVBUTON": "TRUe",
       "USTSLOGAN": "TRUE",
-      "KAYANDUYURUgoster": "TRUe",
+      "KAYANDUYURUgoster": "TRU",
       "ANASAYACgoster": "TRUE",
       "CANLIYAYIN": "TRU",
       "GIZLIKRALgoster": "TRU",
@@ -43,7 +43,7 @@
 },
     "003-metinler": 
     {
-        "KAYANDUYURU": "  Kurban Bayramınız Mübârek Olsun. Ailenizle sevdiklerinizle beraber sağlıklı huzurlu ve mutlu nice bayramlara!    ",
+        "KAYANDUYURU": "XXX",
         "USTSLOGAN": "KADER YAZAR, EFKAR ÇALAR",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html" 
