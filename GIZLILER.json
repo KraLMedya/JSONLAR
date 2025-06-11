@@ -7,7 +7,7 @@
 },  
     "001goster": 
     {
-        "KAYANDUYURUgoster": "TRUe",
+        "KAYANDUYURUgoster": "TRU",
         "ANASAYACgoster": "TRUE",            
         "EXTRALAR": "TRUE"
 },
@@ -23,7 +23,7 @@
 },
     "001metinler": 
     {
-        "KAYANDUYURU": "Kurban Bayramınız Mübârek Olsun. Ailenizle sevdiklerinizle beraber sağlıklı huzurlu ve mutlu nice bayramlara!"
+        "KAYANDUYURU": "XXX"
 },
     "001sayaclar":
       {
@@ -58,7 +58,7 @@
   
     "002gizli": 
     {
-        "KAYANDUYURUgoster": "TRUe",
+        "KAYANDUYURUgoster": "TRU",
         "ANASAYACgoster": "TRUE",
         "CANLIYAYIN": "TRUE",
         "GIZLIKRALgoster": "TRUe",
@@ -83,7 +83,7 @@
 },
     "002metinler": 
     {
-        "KAYANDUYURU": "Kurban Bayramınız Mübârek Olsun. Ailenizle sevdiklerinizle beraber sağlıklı huzurlu ve mutlu nice bayramlara! ",
+        "KAYANDUYURU": "XXX",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html"      
     },
