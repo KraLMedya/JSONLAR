@@ -61,8 +61,8 @@
         "KAYANDUYURUgoster": "TRU",
         "ANASAYACgoster": "TRUE",
         "CANLIYAYIN": "TRU",
-        "GIZLIKRALgoster": "TRUe",
-        "GizliLOBIgoster": "TRUe"      
+        "GIZLIKRALgoster": "TRU",
+        "GizliLOBIgoster": "TRU"      
 
       
 },  
@@ -147,7 +147,7 @@
   
   "002": 
     {
-        "002goster": "TRUe",
+        "002goster": "TRU",
         "002gosterTEST": "tru",      
         "BIRAZOYUN": "https://ferdimedya.com"
 },
