@@ -9,7 +9,7 @@
     {
         "KAYANDUYURUgoster": "TRU",
         "ANASAYACgoster": "TRU",            
-        "EXTRALAR": "TRU"
+        "EXTRALAR": "TRUe"
 },
     "001linkler":
       {
@@ -147,7 +147,7 @@
   
   "002": 
     {
-        "002goster": "TRU",
+        "002goster": "TRUE",
         "002gosterTEST": "tru",      
         "BIRAZOYUN": "https://ferdimedya.com"
 },
