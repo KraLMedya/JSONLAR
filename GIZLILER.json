@@ -62,7 +62,8 @@
         "ANASAYACgoster": "TRUE",
         "CANLIYAYIN": "TRU",
         "GIZLIKRALgoster": "TRU",
-        "GizliLOBIgoster": "TRU"      
+        "GizliLOBIgoster": "TRU",
+        "LOBI": "TRUE",      
 
       
 },  
