@@ -3,16 +3,16 @@
     {
       "PLAYBUTON": "TRUE",
       "PLAYBUTONextra2": "TRU",
-      "ARABESKgizli": "TRU",
-      "SOHBETgizli": "TRU",
+      "ARABESKgizli": "TRUe",
+      "SOHBETgizli": "TRUe",
       "ALTALANKOMPLE": "TRUE",
       "KRALTVBUTON": "TRUe",
       "USTSLOGAN": "TRUE",
       "KAYANDUYURUgoster": "TRU",
       "ANASAYACgoster": "TRUE",
-      "CANLIYAYIN": "TRU",
-      "GIZLIKRALgoster": "TRU",
-      "GizliLOBIgoster": "TRU",
+      "CANLIYAYIN": "TRUe",
+      "GIZLIKRALgoster": "TRUe",
+      "GizliLOBIgoster": "TRUe",
       "GIRISWEB": "TRUE"     
 },  
     "003-STREAMURL": 
