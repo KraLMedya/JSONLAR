@@ -18,7 +18,7 @@
     "003-STREAMURL": 
     {
         "KRALFM_asil": "http://46.20.3.205:80/kralfmmp3",
-        "KRALFM": "https://edge1.socialsmart.tv/radyo2000/bant1/icecast.audio",
+        "KRALFM": "http://stream.taksimbilisim.com:8004/",
         "KRALFMyedek": "http://kralwmp.radyotvonline.com/;",
         "EKRAN2SARKIADI": "http://37.247.98.8/stream/166/",
         "YEDEK_KRALFM": "http://46.20.3.204/;",
