@@ -24,7 +24,9 @@
 },
     "001metinler": 
     {
-        "KAYANDUYURU": "XXX"
+        "KAYANDUYURU": "XXX",
+        "BILGIPENCERETVLER": "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
+        "BILGIPENCERETELIFHAKKI": "https://kralmedya.github.io/HTML/002-KANALLISTESI.html"
 },
     "001sayaclar":
       {
