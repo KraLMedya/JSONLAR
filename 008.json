@@ -8,7 +8,7 @@
       "ALTALANKOMPLE": "TRUE",
       "KRALTVBUTON": "TRUe",
       "USTSLOGAN": "TRUE",
-      "KAYANDUYURUgoster": "TRU",
+      "KAYANDUYURUgoster": "TRUe",
       "ANASAYACgoster": "TRUE",
       "CANLIYAYIN": "TRU",
       "GIZLIKRALgoster": "TRU",
@@ -43,7 +43,7 @@
 },
     "003-metinler": 
     {
-        "KAYANDUYURU": "XXXXX",
+        "KAYANDUYURU": "Merkez kaynaklı yayın akışında yaşanan sorun için üzgünüz. En kısa sürede düzeleceğini umuyoruz. ",
         "USTSLOGAN": "Arabeskin Kalbi",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html" 
@@ -87,4 +87,5 @@
         "OPN2": "ca-app-pub-3210781577321184/1233838072"
 }
 }
+
 
