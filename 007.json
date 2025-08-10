@@ -55,7 +55,8 @@
 },
     "003-FOTOLAR": 
     {
-        "ARKA": "https://i.pinimg.com/originals/ce/68/39/ce6839025bf5863bcde4c60473126ac5.gif",
+        "ARKA": "https://kralmedya.github.io/FOTOLAR/radyo2000arkaplan.jpg",
+        "ARKA2": "https://i.pinimg.com/originals/ce/68/39/ce6839025bf5863bcde4c60473126ac5.gif",        
         "ARKA006": "https://i.pinimg.com/originals/74/75/76/7475769d66f0039bef0fb5b0870a33ae.gif",
         "ARKAyedek": "https://i.pinimg.com/originals/b0/10/73/b01073ee5ba725fc48c2e831b9e22a09.gif",
         "KRALTVGIF": "https://kralmedya.github.io/FOTOLAR/007-logo.png",
@@ -87,5 +88,6 @@
         "OPN22": "ca-app-pub-3210781577321184/1233838072"
 }
 }
+
 
 
