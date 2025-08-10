@@ -62,7 +62,7 @@
   
     "002gizli": 
     {
-        "KAYANDUYURUgoster": "TRU",
+        "KAYANDUYURUgoster": "TRUe",
         "ANASAYACgoster": "TRUe",
         "CANLIYAYIN": "TRUe",
         "GIZLIKRALgoster": "TRUe",
@@ -88,7 +88,7 @@
 },
     "002metinler": 
     {
-        "KAYANDUYURU": "          Ferdyy: Yeni Sürüm 5'e Hoş Geldin! Daha önceden kaldırılan CANLI SOHBET, büyüyen sohbet arayışlarımıza dayanarak geri yüklendi. FM YouTube a gönül veren herkesle birlikte SİZ tüm güzel insanlar için, AYARLAR bölümünde LOBİ eklendi. Sevdiğiniz radyolarla ve diğer tüm içeriklerle Keyifli vakitler dileriz.. ",
+        "KAYANDUYURU": "Balıkesir’de yaşanan deprem nedeniyle tüm Türkiye'ye geçmiş olsun dileklerimizi iletiyoruz. Ailenizin ve sevdiklerinizin güvende olduğunu umut ediyoruz. Bu zorlu süreçte dayanışma içinde hareket etmek, yetkililerin uyarı ve talimatlarını dikkatle takip etmek çok önemli.",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html"      
     },
@@ -169,3 +169,4 @@
 
   
 }
+
