@@ -8,7 +8,7 @@
       "ALTALANKOMPLE": "TRUE",
       "KRALTVBUTON": "TRUe",
       "USTSLOGAN": "TRUE",
-      "KAYANDUYURUgoster": "TRU",
+      "KAYANDUYURUgoster": "TRUe",
       "ANASAYACgoster": "TRUe",
       "CANLIYAYIN": "TRUe",
       "GIZLIKRALgoster": "TRUe",
@@ -43,7 +43,7 @@
 },
     "003-metinler": 
     {
-        "KAYANDUYURU": "XXX",
+        "KAYANDUYURU": "Balıkesir’de yaşanan deprem nedeniyle tüm Türkiye'ye geçmiş olsun dileklerimizi iletiyoruz. Ailenizin ve sevdiklerinizin güvende olduğunu umut ediyoruz. Bu zorlu süreçte dayanışma içinde hareket etmek, yetkililerin uyarı ve talimatlarını dikkatle takip etmek çok önemli.",
         "USTSLOGAN": "ARABESKİN KRALI",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html" 
@@ -76,6 +76,7 @@
         "OPENANA": "ca-app-pub-3210781577321184/1233838072"
 }
 }
+
 
 
 
