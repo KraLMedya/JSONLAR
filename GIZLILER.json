@@ -7,7 +7,7 @@
 },  
     "001goster": 
     {
-        "KAYANDUYURUgoster": "TRU",
+        "KAYANDUYURUgoster": "TRUe",
         "ANASAYACgoster": "TRUe",            
         "EXTRALAR": "TRU",
         "TVBUTON": "TRU"
@@ -25,7 +25,7 @@
 },
     "001metinler": 
     {
-        "KAYANDUYURU": "XXX",
+        "KAYANDUYURU": "Balıkesir’de yaşanan deprem nedeniyle tüm Türkiye'ye geçmiş olsun dileklerimizi iletiyoruz. Ailenizin ve sevdiklerinizin güvende olduğunu umut ediyoruz. Bu zorlu süreçte dayanışma içinde hareket etmek, yetkililerin uyarı ve talimatlarını dikkatle takip etmek çok önemli.",
         "BILGIPENCERETVLER": "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI": "https://kralmedya.github.io/HTML/002-KANALLISTESI.html"
 },
@@ -169,4 +169,5 @@
 
   
 }
+
 
