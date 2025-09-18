@@ -13,7 +13,7 @@
       "CANLIYAYIN": "TRUe",
       "GIZLIKRALgoster": "TRUe",
       "GizliLOBIgoster": "TRUe",
-      "GIRISWEB": "TRUE"     
+      "GIRISWEB": "TRU"     
 },  
     "003-STREAMURL": 
     {
@@ -76,6 +76,7 @@
         "OPENANA": "ca-app-pub-3210781577321184/1233838072"
 }
 }
+
 
 
 
