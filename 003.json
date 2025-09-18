@@ -5,14 +5,14 @@
       "PLAYBUTONextra2": "TRU",
       "ARABESKgizli": "TRU",
       "SOHBETgizli": "TRU",
-      "ALTALANKOMPLE": "TRUE",
+      "ALTALANKOMPLE": "TRU",
       "KRALTVBUTON": "TRUe",
       "USTSLOGAN": "TRUE",
       "KAYANDUYURUgoster": "TRU",
       "ANASAYACgoster": "TRU",
-      "CANLIYAYIN": "TRUe",
-      "GIZLIKRALgoster": "TRUe",
-      "GizliLOBIgoster": "TRUe",
+      "CANLIYAYIN": "TRU",
+      "GIZLIKRALgoster": "TRU",
+      "GizliLOBIgoster": "TRU",
       "GIRISWEB": "TRU"     
 },  
     "003-STREAMURL": 
@@ -76,6 +76,7 @@
         "OPENANA": "ca-app-pub-3210781577321184/1233838072"
 }
 }
+
 
 
 
