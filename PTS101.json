@@ -285,7 +285,7 @@ Offline olarak çalışır böylece bilgisayarınızın sürekli açık kalmazı
         "UrunRUMUZ": "AK - 351",
         "baslik": "Satış Sahası ve Satış Sonrası Detaylar",
         "cozumDetayi": "Ürün satışı tüm ülke genelinde her şehir ve bölgeye yapılabilmekte ve montajı, satış sonrası maksimum 7 iş günü içerisinde sağlanabilmektedir.\n\nÜrüne dair kısa eğitim, firma/kurum/yetkili'ye verilmekte, cihaz tam ve eksiksiz bir şekilde kullanıma hazır hale getirilmektedir.\n\nMontaj ve eğitim süreci tamamlandıktan sonra dahi, cihazın periyodik bakımı, teknik desteği ve olası sorun giderme işlemleri konusunda yetkili teknik ekibimiz aracılığıyla kesintisiz hizmet sunulmaktadır. Müşterilerimiz, kurulum sonrası yaşanabilecek her türlü teknik aksaklıkta veya kullanım desteği ihtiyacında, 7/24 çağrı merkezi ve dijital destek kanallarımız üzerinden anlık çözümlere ulaşabilmektedir. Sunduğumuz hızlı ve yaygın satış sonrası destek ile müşteri memnuniyetini en üst seviyede tutmayı hedefliyoruz.",
-        "anaGorselUrl": "",
+        "anaGorselUrl": "https://cdn.muhiku.com/blog/wp-content/uploads/2020/09/musteri-memnuniyeti.jpg",
         "renkBaslangic": "#009688",
         "renkBitis": "#4DB6AC"
       },
@@ -295,7 +295,7 @@ Offline olarak çalışır böylece bilgisayarınızın sürekli açık kalmazı
         "UrunRUMUZ": "AK - 351",
         "baslik": "Ürün Fiyatlandırma ve Ödeme Yöntemleri",
         "cozumDetayi": "Ürünlerimiz, işletmenizin ölçeğine ve ihtiyaç duyulan modül sayısına göre özelleştirilmiş fiyatlandırma modelleri ile sunulmaktadır. Standart paketlerimizin yanı sıra, kurumunuza özel ek geliştirmeler veya entegrasyonlar için esnek fiyat teklifleri oluşturulmaktadır.\n\nÖdeme kolaylığı sağlamak amacıyla çeşitli yöntemler mevcuttur. Peşin ödemelerde özel indirim seçenekleri sunulmaktadır. Taksitli ödeme veya sözleşmeli kiralama (leasing) seçenekleri için ise anlaşmalı finans kuruluşlarımız üzerinden uygun vadelerle çözüm üretilebilmektedir.\n\nFiyat teklifi ve ödeme planı detayları, yetkili satış temsilcimiz ile yapacağınız görüşme sonrasında, ihtiyaçlarınız doğrultusunda şeffaf ve detaylı bir şekilde tarafınıza sunulacaktır. Tüm fiyatlarımıza KDV dahildir.",
-        "anaGorselUrl": "",
+        "anaGorselUrl": "https://www.akfon.com.tr/yeniurunresimleri/AK-451.jpg",
         "renkBaslangic": "#FF9800",
         "renkBitis": "#FFC107"
       },
@@ -460,7 +460,7 @@ Offline olarak çalışır böylece bilgisayarınızın sürekli açık kalmazı
         "baslik": "Uzak Depoya Bağlanamıyorum",
         "aciklama": "Detaylar için (Tıklayınız...)",
         "cozumDetayi": "Çözüm: SSH anahtarınızın doğru yapılandırıldığından ve uzak depoda (GitHub/GitLab) kayıtlı olduğundan emin olun. Ağ bağlantısını test edin.",
-        "anaGorselUrl": "https://cdn.muhiku.com/blog/wp-content/uploads/2020/09/musteri-memnuniyeti.jpg",
+        "anaGorselUrl": "",
         "renkBaslangic": "#263238",
         "renkBitis": "#455A64"
       },
