@@ -460,7 +460,7 @@ Offline olarak çalışır böylece bilgisayarınızın sürekli açık kalmazı
         "baslik": "Uzak Depoya Bağlanamıyorum",
         "aciklama": "Detaylar için (Tıklayınız...)",
         "cozumDetayi": "Çözüm: SSH anahtarınızın doğru yapılandırıldığından ve uzak depoda (GitHub/GitLab) kayıtlı olduğundan emin olun. Ağ bağlantısını test edin.",
-        "anaGorselUrl": "",
+        "anaGorselUrl": "https://cdn.muhiku.com/blog/wp-content/uploads/2020/09/musteri-memnuniyeti.jpg",
         "renkBaslangic": "#263238",
         "renkBitis": "#455A64"
       },
