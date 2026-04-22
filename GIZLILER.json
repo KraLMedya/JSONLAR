@@ -62,7 +62,7 @@
   
     "002gizli": 
     {
-        "KAYANDUYURUgoster": "TRU",
+        "KAYANDUYURUgoster": "TRUE",
         "ANASAYACgoster": "TRU",
         "CANLIYAYIN": "TRUe",
         "GIZLIKRALgoster": "TRUe",
@@ -88,7 +88,7 @@
 },
     "002metinler": 
     {
-        "KAYANDUYURU": "XXX",
+        "KAYANDUYURU": "                              📢   Uygulamanızın şuan kullandığınız sürümlerinde sorunlar olduğunu biliyoruz. Lütfen 10 saniyenizi ayırarak, son sürüm 11'e güncelleyiniz. Kolayca güncelleme için Ayarlar ekranında, Uygulamana Değer Kat butonuna dokunun..   🤗😊🩵",
         "BILGIPENCERETVLER":  "https://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "https://kralmedya.github.io/HTML/002-KANALLISTESI.html"      
     },
